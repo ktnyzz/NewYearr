@@ -66,12 +66,6 @@ main {
   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABlBMVEX///+pqalTpKl9AAAAAnRSTlMAGovxNEIAAAAdSURBVDjLY2AAAUaG4UYxDDsfjfp91O+jfqfE7wCzpQCw/dq+qQAAAABJRU5ErkJggg==");
 }
 
-b {
-  padding: 0px;
-  font-family: Comic Sans MS, Comic Sans, cursive;
-  color: #b5ebd9;
-}
-
 main::after,
 .slides::after {
   content: "";
